@@ -79,7 +79,7 @@
          <string>&amp;Valgrind Executable:</string>
         </property>
         <property name="buddy">
-         <cstring>valgrindParameters</cstring>
+         <cstring>valgrindExecutable</cstring>
         </property>
        </widget>
       </item>
@@ -89,7 +89,7 @@
          <string>&amp;Maximum frame stack size (bytes):</string>
         </property>
         <property name="buddy">
-         <cstring>valgrindParameters</cstring>
+         <cstring>maxStackSize</cstring>
         </property>
        </widget>
       </item>
